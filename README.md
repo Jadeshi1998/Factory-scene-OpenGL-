@@ -3,7 +3,7 @@
 [🔗 CLICK TO READ REPORT](https://github.com/Jadeshi1998/Factory-scene-OpenGL-/blob/main/report/COSC363-Assessment1.pdf)
 ---
 
-## Overview  
+## 📌  Overview  
 
 This project is a 3D animated factory scene built using **OpenGL with C++**, showcasing dynamic animations, lighting effects, and user interactions. The scene includes:
 
@@ -15,7 +15,7 @@ This project is a 3D animated factory scene built using **OpenGL with C++**, sho
 
 ---
 
-## Features  
+## ✨ Key Features  
 
 - **Dynamic Spotlight** rotating around the conveyor belt  
 - **Planar Shadows** cast by major objects (chimneys, red gate)  
@@ -25,20 +25,40 @@ This project is a 3D animated factory scene built using **OpenGL with C++**, sho
 
 ---
 
-## Controls  
+---
 
+## Screenshot   
+
+- **Scene**   
+<img width="499" alt="Screenshot 2025-06-17 at 08 10 41" src="https://github.com/user-attachments/assets/28219201-9474-44d6-aeaa-d4c70fc25c3a" />
+- **Polygon mode** q or Q button   
+<img width="320" alt="Screenshot 2025-06-17 at 08 11 45" src="https://github.com/user-attachments/assets/6c02f09d-467a-4b95-ba8a-419f6d1169f9" />
+- **Dynamic Spotlight**    
+<img width="305" alt="Screenshot 2025-06-17 at 08 11 31" src="https://github.com/user-attachments/assets/cebcd3a9-fa46-45f9-9ecc-b6934d8eadae" />
+
+---
+
+
+---
+## 🛠️ Controls  
+- Left arrow - Rotate view left
+- Up arrow -  Move camera up
 - `W` / `S` – Move camera forward / backward  
-- Arrow keys – Rotate view or move camera up/down  
 - `Q` – Toggle polygon mode (wireframe/solid)  
 
 ---
 
-## Build & Run Instructions (CSSE Lab Machines)  
+## 🖥️ How to Run
 
-1. Open terminal and navigate to your project folder  
-2. Run the following commands:
+### ✅ Prerequisites
 
-```bash
-cmake .
-make
-./Factory.out
+- C++ compiler supporting C++11 or newer
+- OpenGL & GLUT installed
+- [DevIL (OpenIL)](http://openil.sourceforge.net/) library for texture support
+
+### ▶️ Run
+- [OpenGL set up](https://github.com/Jadeshi1998/OpenGL_Install/blob/main/OpenGL_VisualStudio.pdf) Check this for how to run.
+
+
+
+
