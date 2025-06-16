@@ -1,6 +1,6 @@
 # Computer Graphics Factory  
 **Name:** Yumeng Shi  
-[🔗 CLICK TO READ REPORT](https://github.com/Jadeshi1998/Factory-scene-OpenGL-/blob/main/COSC363-Assessment1.pdf)
+[🔗 CLICK TO READ REPORT](https://github.com/Jadeshi1998/Factory-scene-OpenGL-/blob/main/report/COSC363-Assessment1.pdf)
 ---
 
 ## Overview  
