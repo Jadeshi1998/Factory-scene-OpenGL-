@@ -27,20 +27,15 @@ This project is a 3D animated factory scene built using **OpenGL with C++**, sho
 
 ## 📸 Screenshots
 
-- **Scene**  
-![Scene Screenshot](https://github.com/user-attachments/assets/28219201-9474-44d6-aeaa-d4c70fc25c3a)
+<h3>🖼️ Scene</h3>
+<img src="https://github.com/user-attachments/assets/28219201-9474-44d6-aeaa-d4c70fc25c3a" width="400"/>
 
----
+<h3>🔳 Polygon Mode (<code>q</code> / <code>Q</code> to toggle)</h3>
+<img src="https://github.com/user-attachments/assets/6c02f09d-467a-4b95-ba8a-419f6d1169f9" width="250"/>
 
-- **Polygon Mode (`q` / `Q` to toggle)**
-![Polygon Mode Screenshot](https://github.com/user-attachments/assets/6c02f09d-467a-4b95-ba8a-419f6d1169f9)
+<h3>💡 Dynamic Spotlight</h3>
+<img src="https://github.com/user-attachments/assets/cebcd3a9-fa46-45f9-9ecc-b6934d8eadae" width="250"/>
 
----
-
-- **Dynamic Spotlight**  
-![Dynamic Spotlight Screenshot](https://github.com/user-attachments/assets/cebcd3a9-fa46-45f9-9ecc-b6934d8eadae)
-
----
 
 
 ---
